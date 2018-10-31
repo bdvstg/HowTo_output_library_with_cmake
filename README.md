@@ -12,3 +12,8 @@
 
 ## [use_test_library](./use_test_library)
 此教程教你怎麼套用.so檔
+
+<br/>
+
+## [opt-create_library_and_use_at_same_project](./opt-create_library_and_use_at_same_project)
+這專案合併create_library和use_test_library這兩個專案，這樣就不用切成兩個專案了
