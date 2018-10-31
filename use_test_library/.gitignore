@@ -1,0 +1,4 @@
+build
+build/*
+libmyApis.so
+myApi.h
